@@ -73,9 +73,13 @@ Clone the Repository
 ### Clone the Repository
 ```bash
 git clone https://github.com/SWAROOP-KUMAR18/5FNU-L6I-Molecular-Docking.git
+```bash
 cd 5FNU-L6I-Molecular-Docking
+```bash
 pip install pymol openbabel
+```bash
 bash run_docking.sh
+```bash
 pymol docked_complex.pdbqt
 
 
