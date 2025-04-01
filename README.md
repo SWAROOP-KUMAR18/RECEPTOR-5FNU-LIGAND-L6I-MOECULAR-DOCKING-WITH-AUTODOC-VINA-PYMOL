@@ -6,7 +6,7 @@ This project involves molecular docking of the 5FNU receptor and L6I ligand to a
 
 The preprint of this work is available on ChemRxiv:
 
-[Link to Preprint on ChemRxiv]([https://chemrxiv.org/your-preprint-url](https://chemrxiv.org/engage/chemrxiv/article-details/67e711e481d2151a021e670f))
+[Link to Preprint on ChemRxiv] ([https://chemrxiv.org/your-preprint-url](https://chemrxiv.org/engage/chemrxiv/article-details/67e711e481d2151a021e670f))
 
 DOI: [(https://doi.org/10.26434/chemrxiv-2025-lhx43)](https://doi.org/10.26434/chemrxiv-2025-lhx43)
 
