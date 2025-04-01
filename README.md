@@ -2,6 +2,16 @@
 Molecular Docking of 5FNU Receptor and L6I Ligand
 Project Overview
 This project involves molecular docking of the 5FNU receptor and L6I ligand to analyze their binding interactions, stability, and potential for drug discovery. The study was conducted using AutoDock Vina, PyRx, and related bioinformatics tools.
+## Preprint
+
+The preprint of this work is available on ChemRxiv:
+
+[Link to Preprint on ChemRxiv]([https://chemrxiv.org/your-preprint-url](https://chemrxiv.org/engage/chemrxiv/article-details/67e711e481d2151a021e670f))
+
+DOI: [(https://doi.org/10.26434/chemrxiv-2025-lhx43)](https://doi.org/10.26434/chemrxiv-2025-lhx43)
+
+
+
 
 Data Sources
 Receptor (5FNU): https://www.rcsb.org/structure/5FNU
